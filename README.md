@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello!
+
+I'm [Alex Watt](https://alexcwatt.com/). My work, in a nutshell: I make ideas come to life, sometimes with code. I love the whole process - from ideation to implementation. I get great satisfaction from learning and from shipping.
+
+You can learn more about my work on [my LinkedIn](https://linkedin.com/in/alexcwatt) and more about me on [my website](https://alexcwatt.com/about/).
 
 <!--
 **alexcwatt/alexcwatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
